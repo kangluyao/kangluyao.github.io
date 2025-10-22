@@ -1,0 +1,295 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage on Luyao Kang</title>
+    <link>/</link>
+    <description>Recent content in Homepage on Luyao Kang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pocket</title>
+      <link>/pocket/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/pocket/</guid>
+      <description>
+        &lt;h3 id=&#34;r&#34;&gt;R&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.colorhexa.com/color-names&#34;&gt;list of colors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf&#34;&gt;R colors&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;linux&#34;&gt;Linux&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://explainshell.com/&#34;&gt;explainshell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://files.fosswire.com/2007/08/fwunixref.pdf&#34;&gt;Unix/Linux Command Cheat Sheet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;database&#34;&gt;Database&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000106&#34;&gt;Censusing Earth&amp;rsquo;s bacterial diversity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://globalfungi.com/&#34;&gt;GlobalFungi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://globalamfungi.com&#34;&gt;GlobalAMFungi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gbif.org/&#34;&gt;Global Biodiversity Information Facility&lt;/a&gt; Plant global occurrences&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://earthmicrobiome.org/&#34;&gt;Earth Microbiome Project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://soilgrids.org/&#34;&gt;SoilGrids system&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://due.esrin.esa.int/page_globcover.php&#34;&gt;Globcover2009 map&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.worldclim.org&#34;&gt;WorldClim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/s41597-021-00889-9&#34;&gt;Global ocean metagenomes from Bio-GO-SHIP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/s41597-024-03410-0&#34;&gt;Global airborne fungal DNA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13917&#34;&gt;FreshLanDiv: A Global Database of Freshwater Biodiversity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://biotime.st-andrews.ac.uk/&#34;&gt;BioTIME&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1002/pan3.10071&#34;&gt;Human impact data (pan310071-sup-0003-Supinfo2.7z)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;ftp://ftp.cdc.noaa.gov/Datasets/noaa.ersst.v5/sst.mnmean.nc&#34;&gt;Sea surface temperature from ERSST v.5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dap.ceda.ac.uk/badc/cru/data/cru_ts/cru_ts_4.03/data/tmp/cru_ts4.03.1901.2018.tmp.dat.nc&#34;&gt;Land surface temperature from CRU TS v.4.03&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://worldclim.org&#34;&gt;Terrestrial microclimate data from WorldClim 2.0 (wc2.0_bio_30s_01.tif)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bio-oracle.org/&#34;&gt;Marine microclimate data from Bio-ORACLE 2.2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://forestgeo.si.edu/&#34;&gt;The Forest Global Earth Observatory (ForestGEO)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;markdown&#34;&gt;Markdown&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://markdown.com.cn/&#34;&gt;Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>
+        &lt;p&gt;I am a broadly trained microbiome researcher, mainly interested in understanding 1) the microbial biogeographic patterns and the underlying causes; 2) the responses of microorganisms to the climate changes in alpine ecosystems. My research is motivated by a need for a better understanding of rules of microbial compositional assemblage and functional attributes during the current era of global changes. My research is interdisciplinary, integrating tools and perspectives of microbial ecology, biogeography, species distribution modelings (DDRs), meta-analyses and metagenomes.&lt;/p&gt;
+&lt;h3 id=&#34;assemblage-mechanisms-of-the-belowground-communities-in-alpine-grassland&#34;&gt;Assemblage mechanisms of the belowground communities in alpine grassland&lt;/h3&gt;
+&lt;p&gt;During my Ph.D stage in IBCAS, I investigated the biogeographic patterns and underlying assemblage mechanisms of the belowground communities (i.e. bacteria, fungi, protists, and metazoa) on the Tibetan alpine grassland (&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15827&#34;&gt;Kang et al. 2022, &lt;em&gt;Environmental microbiology&lt;/em&gt;&lt;/a&gt;).&lt;/p&gt;
+&lt;div&gt;
+    &lt;img src=&#34;./images/grassland.jpg&#34;&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;patterns-and-drivers-of-microbes-in-thermokarst-lake-water-across-northern-hemisphere&#34;&gt;Patterns and drivers of microbes in thermokarst lake water across Northern Hemisphere&lt;/h3&gt;
+&lt;p&gt;In addition, I have reveled the underlying causes of the microbial biodiversity and their difference between high-altitude and high-latitude permafrost thawing lakes across the Northern Hemisphere (&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13764&#34;&gt;Kang et al. 2023, &lt;em&gt;Global Ecology and Biogeography&lt;/em&gt;&lt;/a&gt;).&lt;/p&gt;
+&lt;div&gt;
+    &lt;img src=&#34;./images/thermokarst.jpg&#34;&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;large-scale-stratigraphic-profiles-of-microbial-attributes-across-permafrost-ecosystem&#34;&gt;Large-scale stratigraphic profiles of microbial attributes across permafrost ecosystem&lt;/h3&gt;
+&lt;p&gt;I also completed a project recently investigating the large-scale stratigraphic microbial biogeochemical profiles using metagenomic techniques on the Tibetan alpine permafrost region (Kang et al. 2023, in preparation).&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>/resume/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/</guid>
+      <description>
+        &lt;h2 id=&#34;current-position&#34;&gt;Current Position&lt;/h2&gt;
+&lt;p&gt;I am currently a PhD candidate at the Institute of Botany, Chinese Academy of Sciences.&lt;/p&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2019 – Present, &lt;strong&gt;Ph.D.&lt;/strong&gt; &lt;em&gt;Ecology&lt;/em&gt;, Institute of Botany, Chinese Academy of Sciences, China&lt;/li&gt;
+&lt;li&gt;2015 – 2018, &lt;strong&gt;M.S.&lt;/strong&gt; &lt;em&gt;Ecology&lt;/em&gt;, School of Life Science, Sun Yat-sen University, China&lt;/li&gt;
+&lt;li&gt;2011 – 2015, &lt;strong&gt;B.A.&lt;/strong&gt; &lt;em&gt;Biological Science&lt;/em&gt;, School of Life Science, Nanchang University, China&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;p&gt;&lt;font size=4px&gt;&lt;b&gt;Papers&lt;/b&gt;&lt;/font&gt;&lt;br&gt;
+&lt;font size=4px&gt;&lt;sup&gt;&lt;b&gt;†&lt;/b&gt;&lt;/sup&gt; denotes the authors contributed equally&lt;/font&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Qin Shuqi, Fang Kai, Song Yutong, &lt;b&gt;Kang Luyao&lt;/b&gt;, Wang Siyu, and Yang Yuanhe. 2024. &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.17456&#34;&gt;Linkage between temperature sensitivity of SOM decomposition and microbial communities depends on soil fractions&lt;/a&gt;. &lt;i&gt;&lt;u&gt;Global Change Biology&lt;/i&gt;&lt;/u&gt; 30(8): e17456. doi: 10.1111/gcb.17456.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wang Lu, Zhang Dianye, &lt;b&gt;Kang Luyao&lt;/b&gt;, Li Ziliang, and Yang Yuanhe. 2024. &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2435.14612&#34;&gt;Divergent microbial phosphorous acquisition strategies between active layer and permafrost deposits on the Tibetan Plateau&lt;/a&gt;. &lt;u&gt;&lt;i&gt;Functional Ecology&lt;/u&gt;&lt;/i&gt; 38(9): 2015-2026. doi: 10.1111/1365-2435.14612.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;b&gt;Luyao Kang&lt;/b&gt;, Yutong Song, Rachel Mackelprang, Dianye Zhang, Shuqi Qin, Leiyi Chen, Linwei Wu, Yunfeng Peng, and Yuanhe Yang. 2024. &lt;a href=&#34;https://www.nature.com/articles/s41467-024-50276-2&#34;&gt;Metagenomic insights into microbial community structure and metabolism in alpine permafrost on the Tibetan Plateau&lt;/a&gt;. &lt;u&gt;&lt;i&gt;Nature Communications&lt;/i&gt;&lt;/u&gt; 15(1): 5920. doi: 10.1038/s41467-024-50276-2.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wang Guanqin&lt;sup&gt;&lt;b&gt;†&lt;/b&gt;&lt;/sup&gt;, Peng Yunfeng&lt;sup&gt;&lt;b&gt;†&lt;/b&gt;&lt;/sup&gt;, Chen Leiyi, Abbott, Benjamin W., Ciais Philippe, &lt;b&gt;Kang Luyao&lt;/b&gt;, Liu Yang, Li Qinlu, Peñuelas Josep, Qin Shuqi, Smith Pete, Song Yutong, Strauss Jens, Wang Jun, Wei Bin, Yu Jianchun, Zhang Dianye, and Yang Yuanhe. 2024. &lt;a href=&#34;https://www.nature.com/articles/s41561-024-01440-2&#34;&gt;Enhanced response of soil respiration to experimental warming upon thermokarst formation&lt;/a&gt;. &lt;u&gt;&lt;i&gt;Nature Geoscience&lt;/i&gt;&lt;/u&gt; 17: 352-538. doi: 10.1038/s41561-024-01440-2.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;b&gt;Luyao Kang&lt;/b&gt;, Leiyi Chen, Ziliang Li, Jianjun Wang, Kai Xue, Ye Deng, Manuel Delgado-Baquerizo, Yutong Song, Dianye Zhang, Guibiao Yang, Wei Zhou, Xuning Liu, Futing Liu, and Yuanhe Yang. 2023. &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13764&#34;&gt;Patterns and Drivers of Prokaryotic Communities in Thermokarst Lake Water across Northern Hemisphere&lt;/a&gt;. &lt;u&gt;&lt;i&gt;Global Ecology and Biogeography&lt;/i&gt;&lt;/u&gt; 32(12): 2244-2256. doi: 10.1111/geb.13764.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ziliang Li&lt;sup&gt;&lt;b&gt;†&lt;/b&gt;&lt;/sup&gt;, Weijie Xu&lt;sup&gt;&lt;b&gt;†&lt;/b&gt;&lt;/sup&gt;, &lt;b&gt;Luyao Kang&lt;/b&gt;, Yakov Kuzyakov, Leiyi Chen, Mei He, Futing Liu, Dianye Zhang, Wei Zhou, Xuning Liu, and Yuanhe Yang. 2023. &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.16938&#34;&gt;Accelerated Organic Matter Decomposition in Thermokarst Lakes upon Carbon and Phosphorus Inputs&lt;/a&gt;. &lt;u&gt;&lt;i&gt;Global Change Biology&lt;/i&gt;&lt;/u&gt; 29(22): 6367-6382. doi: 10.1111/gcb.16938.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Jie Hu, &lt;b&gt;Luyao Kang&lt;/b&gt;, Ziliang Li, Xuehui Feng, Caifan Liang, Zan Wu, Wei Zhou, Xuning Liu, Yuanhe Yang, and Leiyi Chen. 2023. &lt;a href=&#34;https://www.nature.com/articles/s41467-023-39432-2&#34;&gt;Photo-Produced Aromatic Compounds Stimulate Microbial Degradation of Dissolved Organic Carbon in Thermokarst Lakes&lt;/a&gt;. &lt;u&gt;&lt;i&gt;Nature Communications&lt;/i&gt;&lt;/u&gt; 14(1):3681. doi: 10.1038/s41467-023-39432-2.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Guibiao Yang, Zhihu Zheng, Benjamin W. Abbott, David Olefeldt, Christian Knoblauch, Yutong Song, &lt;b&gt;Luyao Kang&lt;/b&gt;, Shuqi Qin, Yunfeng Peng, and Yuanhe Yang. 2023. &lt;a href=&#34;https://www.nature.com/articles/s41467-023-38907-6&#34;&gt;Characteristics of Methane Emissions from Alpine Thermokarst Lakes on the Tibetan Plateau&lt;/a&gt;. &lt;u&gt;&lt;i&gt;Nature Communications&lt;/i&gt;&lt;/u&gt; 14(1):3121. doi: 10.1038/s41467-023-38907-6.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Chao Mao, Yutong Song, Yunfeng Peng, &lt;b&gt;Luyao Kang&lt;/b&gt;, Ziliang Li, Wei Zhou, Xuning Liu, Futing Liu, Guibing Zhu, and Yuanhe Yang. 2023. &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.16654&#34;&gt;Patterns and Drivers of Anaerobic Nitrogen Transformations in Sediments of Thermokarst Lakes&lt;/a&gt;. &lt;u&gt;&lt;i&gt;Global Change Biology&lt;/i&gt;&lt;/u&gt; 29:2697–2713. doi: 10.1111/gcb.16654.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Guanqin Wang, Leiyi Chen, Dianye Zhang, Shuqi Qin, Yunfeng Peng, Guibiao Yang, Jun Wang, Jianchun Yu, Bin Wei, Yang Liu, Qinlu Li, &lt;b&gt;Luyao Kang&lt;/b&gt;, Yuanyuan Wang, and Yuanhe Yang. 2022. &lt;a href=&#34;https://doi.org/10.1021/acs.est.1c07575&#34;&gt;Divergent Trajectory of Soil Autotrophic and Heterotrophic Respiration upon Permafrost Thaw&lt;/a&gt;. &lt;u&gt;&lt;i&gt;Environmental Science &amp;amp; Technology&lt;/i&gt;&lt;/u&gt; 56(14):10483–93. doi: 10.1021/acs.est.1c07575.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;b&gt;Luyao Kang&lt;/b&gt;, Leiyi Chen, Dianye Zhang, Yunfeng Peng, Yutong Song, Dan Kou, Ye Deng, and Yuanhe Yang. 2022. &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15827&#34;&gt;Stochastic Processes Regulate Belowground Community Assembly in Alpine Grasslands on the Tibetan Plateau&lt;/a&gt;. &lt;u&gt;&lt;i&gt;Environmental Microbiology&lt;/i&gt;&lt;/u&gt; 24(1): 179–94. doi: 10.1111/1462-2920.15827.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yutong Song, Leiyi Chen, &lt;b&gt;Luyao Kang&lt;/b&gt;, Guibiao Yang, Shuqi Qin, Qiwen Zhang, Chao Mao, Dan Kou, Kai Fang, Xuehui Feng, and Yuanhe Yang. 2021. &lt;a href=&#34;https://doi.org/10.1021/acs.est.0c07267&#34;&gt;Methanogenic Community CH&lt;sub&gt;4&lt;/sub&gt; Production Potential and Its Determinants in the Active Layer and Permafrost Deposits on the Tibetan Plateau&lt;/a&gt;. &lt;u&gt;&lt;i&gt;Environmental Science &amp;amp; Technology&lt;/i&gt;&lt;/u&gt; 55(16):11412–23. doi: 10.1021/acs.est.0c07267.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yongliang Chen&lt;sup&gt;&lt;b&gt;†&lt;/b&gt;&lt;/sup&gt;, Futing Liu&lt;sup&gt;&lt;b&gt;†&lt;/b&gt;&lt;/sup&gt;, &lt;b&gt;Luyao Kang&lt;/b&gt;, Dianye Zhang, Dan Kou, Chao Mao, Shuqi Qin, Qiwen Zhang, and Yuanhe Yang. 2021. &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.15487&#34;&gt;Large-Scale Evidence for Microbial Response and Associated Carbon Release after Permafrost Thaw&lt;/a&gt;. &lt;u&gt;&lt;i&gt;Global Change Biology&lt;/i&gt;&lt;/u&gt; 27(14):3218–29. doi: 10.1111/gcb.15487.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Huixuan Liao, Fangfang Huang, Daijiang Li, &lt;b&gt;Luyao Kang&lt;/b&gt;, Baoming Chen, Ting Zhou, and Shaolin Peng. 2018. &lt;a href=&#34;https://doi.org/10.1007/s11104-018-3733-3&#34;&gt;Soil Microbes Regulate Forest Succession in a Subtropical Ecosystem in China: Evidence from a Mesocosm Experiment&lt;/a&gt;. &lt;u&gt;&lt;i&gt;Plant and Soil&lt;/i&gt;&lt;/u&gt; 430(1):277–89. doi: 10.1007/s11104-018-3733-3.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;b&gt;Luyao Kang&lt;/b&gt;. 2018. Community dynamics of mycorrhizal fungi along a low subtropical forest succession (in Chinese). Master thesis. Sun Yat-sen University, Gunagzhou, China.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;font size=4px&gt;&lt;b&gt;Books&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Ting Zhou, &lt;b&gt;Luyao Kang&lt;/b&gt;, Bei Huang&amp;hellip; (2020). &lt;i&gt;Nanling National Nature Reserves: Vegetation of Tianjing Mountain&lt;/i&gt;. Beijing: Science Press.&lt;/li&gt;
+&lt;li&gt;Ting Zhou, &amp;hellip;&lt;b&gt;Luyao Kang&lt;/b&gt;&amp;hellip;, (2018). &lt;i&gt;Construction and Application of a Quantitative Assessment Framework for Natural Resources and the Environmental Quality&lt;/i&gt;. Beijing: Science Press.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;selected-awards&#34;&gt;Selected Awards&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2024, Top-cited author in &lt;em&gt;Environmental Microbiology&lt;/em&gt; journal&lt;/li&gt;
+&lt;li&gt;2021, Merit Student, University of Chinese Academy of Sciences&lt;/li&gt;
+&lt;li&gt;2018, Prize for The Outstanding Contribution, School of Life Science, Sun Yat-sen University&lt;/li&gt;
+&lt;li&gt;2015, Outstanding Graduates, Nanchang University&lt;/li&gt;
+&lt;li&gt;2013, Excellent Student Cadre, Nanchang University&lt;/li&gt;
+&lt;li&gt;2012, The First Prize Scholarship, Nanchang University&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;professional-service-and-outreach&#34;&gt;Professional Service and Outreach&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2023 – Present. Manuscript reviewer for &lt;i&gt;Chinese Journal of Plant Ecology&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;Aug. 2017. Volunteer for The 12th International Congress of Ecology&lt;/li&gt;
+&lt;li&gt;2015 – 2016. Graduate Admissions Liaison, Sun Yat-sen University.&lt;/li&gt;
+&lt;li&gt;2015 – Present. Alumni Board of Directors, Class of 2015, Nanchang University&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;presentations-and-posters&#34;&gt;Presentations and Posters&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;b&gt;Luyao Kang&lt;/b&gt;, Yutong Song, Rachel Mackelprang, Linwei Wu, and Yuanhe Yang. Metagenomic insights into microbial structure and metabolism in alpine permafrost on the Tibetan Plateau. EGU General Assembly 2024, Vienna, Austria, Apr 2024, EGU24-3298. (onsite Poster)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;b&gt;Luyao Kang&lt;/b&gt;, Ye Deng, and Yuanhe Yang. 2020 December. Stochastic Process Dominates Microbial Community Assembly in Alpine Grasslands on the Tibetan Plateau . American Geophysical Union, Fall Meeting 2020, abstract #B113-0007. (online Poster)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
+        &lt;p&gt;Hi, I&amp;rsquo;m Luyao, a PhD student at the Institute of Botany, Chinese Academy of Science (website: &lt;a href=&#34;http://english.ib.cas.cn/)&#34;&gt;http://english.ib.cas.cn/)&lt;/a&gt;. Under the supervision of &lt;a href=&#34;https://www.researchgate.net/profile/Yuanhe-Yang&#34;&gt;Prof. Yuanhe Yang&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I am broadly interested in microbial ecology, community ecology, global change ecology, and the causes and consequences of biogeochemistry. I am enthusiastic about open and reproducible science and scientific communication.&lt;/p&gt;
+&lt;p&gt;I like hiking 🚶‍♂️, listening musics 🎧, watching movies 🎥 and sports games ⚽.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>English Blog</title>
+      <link>/en/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/en/</guid>
+      <description>
+        
+        
+        &lt;script&gt;window.location.href=&#39;./en/&#39;;&lt;/script&gt;
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>中文博客</title>
+      <link>/cn/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/cn/</guid>
+      <description>
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Not Found</title>
+      <link>/404/</link>
+      <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/404/</guid>
+      <description>
+        &lt;p&gt;Error 404. Nothing found :( Where did you get that link?&lt;/p&gt;
+&lt;p&gt;Please go to &lt;a href=&#34;./&#34;&gt;homepage&lt;/a&gt;.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/about/</guid>
+      <description>
+        &lt;p&gt;Who am I?&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>/en/vitae/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/vitae/</guid>
+      <description>
+        &lt;h1 id=&#34;my-name&#34;&gt;My Name&lt;/h1&gt;
+&lt;h2 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h2&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>/cn/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cn/about/</guid>
+      <description>
+        &lt;p&gt;我是谁？&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>简历</title>
+      <link>/cn/vitae/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cn/vitae/</guid>
+      <description>
+        &lt;h1 id=&#34;姓名&#34;&gt;姓名&lt;/h1&gt;
+&lt;h2 id=&#34;联系方式&#34;&gt;联系方式&lt;/h2&gt;
+&lt;p&gt;等等……&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

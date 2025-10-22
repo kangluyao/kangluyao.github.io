@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Hugo 0.82.1" />
+
+
+<title>关于我的个人网站 - Luyao Kang</title>
+<meta property="og:title" content="关于我的个人网站 - Luyao Kang">
+
+
+
+  
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/fonts.css" media="all">
+<link rel="stylesheet" href="/css/main.css" media="all">
+
+<link rel="stylesheet" href="/css/custom.css">
+
+<script async src="https://use.fontawesome.com/32c3d13def.js"></script>
+<link rel="stylesheet" href="https://kangluyao.github.io/css/academicons.css" media="all">
+
+
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav">
+  <a href="/" class="nav-logo">
+    <img src="/images/logo.png"
+         width="60"
+         height="50"
+         alt="Luyao Kang">
+  </a>
+
+  <ul class="nav-links">
+    
+    
+    
+    <li class=""><a href="/"> 首页 </a></li>
+    
+    <li class=""><a href="/cn/about/"> 关于 </a></li>
+    
+    <li class=""><a href="/cn/"> 博客 </a></li>
+    
+    <li class=""><a href="/en/"> English </a></li>
+    
+  </ul>
+</nav>
+
+      </header>
+
+
+<main class="content" role="main">
+
+  <article class="article">
+    
+    <span class="article-duration">1074 字</span>
+    
+    <h1 class="article-title">关于我的个人网站
+
+</h1>
+
+
+<div class="article-date">
+  <span> 康路遥 ·   2021/06/28</span>
+  <span class="article-toolbar">
+    
+    <a href="/cn/index.xml" type="application/rss+xml" target="_blank"><i class="fa fa-rss" aria-hidden="true" title="RSS feed"></i></a>
+    
+    <a href="https://twitter.com/home?status=%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99&#43;https%3A%2F%2Fkangluyao.github.io%2Fcn%2F2021%2F06%2F28%2Fabout-my-personal-site%2F&#43;via&#43;%40loyal_ECO" target="_blank"><i class="fa fa-twitter" aria-hidden="true" title="Share via Twitter"></i></a>
+    <a href="http://service.weibo.com/share/share.php?content=utf-8&amp;title=%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99&#43;%40Kangluyao&amp;url=https%3A%2F%2Fkangluyao.github.io%2Fcn%2F2021%2F06%2F28%2Fabout-my-personal-site%2F" target="_blank"><i class="fa fa-weibo" aria-hidden="true" title="分享到新浪微博"></i></a>
+    <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><i class="fa fa-cc" aria-hidden="true" title="Attribution-NonCommercial-ShareAlike 4.0 International"></i></a>
+    
+    
+    
+    <a href="https://github.com/kangluyao/kangluyao.github.io/content/cn/2021-06-28-about-my-personal-site.md" target="_blank"><i class="fa fa-pencil-square-o" aria-hidden="true" title="编辑本页"></i></a>
+    
+    </span>
+</div>
+
+
+
+    
+    <div class="article-content">
+      <blockquote>
+<p>谈我的个人网站的制作过程，主要是想将整个个人网页制作过程记录下来，当作一个笔记吧。</p>
+</blockquote>
+<p>我的个人网页是用Hugo 制作的，使用的是 R 包 <a href="https://disq.us/url?url=https%3A%2F%2Fgithub.com%2Frstudio%2Fblogdown%3AmAY6yyl-LJyLUHOVCFLTv486H_Q&amp;cuid=2743984">blogdown</a>，关于blogdown的使用方法可以参考<a href="https://yihui.org/">谢益辉</a>大佬写的<a href="https://bookdown.org/yihui/blogdown/">blogdown: Creating Websites with R Markdown</a>。好了，介绍一下我的主页制作过程吧。</p>
+<p>首先，在Rstudio中安装blogdown包，安装好后使用blogdown建立一个project，设置好目录名称和路径，选择Hugo主题。然后运行<code>blogdown::serve_site()</code>就可以在Viewer窗口看到网页的雏形。当然，网页的设计布局需要自己通过修改<code>_layout</code>和<code>config.yaml</code>等文件来实现，详细见谢益辉大佬写的指导书吧。</p>
+<p>一种快速且方便的方法是去看看那些设计做的好的网站，然后去他们的 github上将整个网站内容download下来 ，然后仔细研究他们的<code>_layout</code>，<code>CSS</code>和<code>_config.yml</code>文件，很多人会将自己的个人主页托管到GitHub上，可以直接在他们的GitHub上下载下来。我比较推荐这个方法，我自己对网页设计不是很在行，所以通过借鉴修改别人的优秀设计，然后搭建自己的网站。这种方法对于没有网页设计基础的人比较友好。我本人的个人主页是端了我的师兄<a href="https://daijiang.name/">李代江</a>的个人主页，然后修改了域名，<code>_layout</code>，<code>_config.yml</code>以及其他一些文件之后做成的。</p>
+<p>接下来是发布网站，即将制作好的个人主页上载到服务器上，获得相应的域名，这样别人就能通过访问域名查看你的个人主页了，我采用的是<a href="https://www.netlify.com">Netlify</a>。Netlify提供了一个免费的计划，实际上有很多有用的功能。如果之前没有发布网站的经验，只需要用GitHub账号或者其他账号登录，把blogdown为网站生成的<code>public/folder</code>文件拖拽到Netlify页面，几秒钟后网站就可以上线了，随机获得子域名，可以修改这个域名，再将这个域名写入到<code>_config.yml</code>文件中，这样别人就可以通过该域名访问网站了。</p>
+<p>使用Netlify发布网站存在一个非常不方便的问题，当我写了一篇日志需要上载的时候，我需要重新发布我的网站，这使得整个过程显得非常麻烦，对于网站的管理非常不便捷。我的解决办法是将自己的网站文件上载到我的GitHub上的<code>homepage</code>，然后在Netlify和<code>homepage</code>之间建立联系，使Netlify获得读取<code>homepage</code>的权限，然后每次只需要在Rstudio里面写好日志，使用git命令推送到<code>homepage</code>，个人主页中就会同步日志了。</p>
+<p>到这里网页基本上就差不多了，just enjoy it!</p>
+
+    </div>
+    
+
+<nav id="article-nav">
+    
+    <a href="/cn/2021/04/29/nothing/" id="article-nav-older" class="article-nav-link-wrap">
+      <div class="article-nav-title"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i> 摸鱼</div>
+    </a>
+    
+
+    
+    <a href="/cn/2021/07/08/my-back-pages/" id="article-nav-newer" class="article-nav-link-wrap">
+      <div class="article-nav-title">My back pages <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></div>
+    </a>
+    
+</nav>
+<script type="text/javascript">
+document.addEventListener('keyup', function(e) {
+  if (e.target.nodeName.toUpperCase() != 'BODY') return;
+  var url = false;
+  if (e.which == 37) {  
+    
+    url = '\/cn\/2021\/04\/29\/nothing\/';
+    
+  } else if (e.which == 39) {  
+    
+    url = '\/cn\/2021\/07\/08\/my-back-pages\/';
+    
+  }
+  if (url) window.location = url;
+});
+</script>
+
+
+
+  </article>
+
+  
+<section id="comments">
+  <div id="disqus_thread"></div>
+  <script>
+  
+  var disqus_config = function () {
+    this.page.url = "https:\/\/kangluyao.github.io\/" + location.pathname;
+  };
+  
+  (function() {
+   var inIFrame = function() {
+      var iframe = true;
+      try { iframe = window.self !== window.top; } catch (e) {}
+      return iframe;
+    };
+    if (inIFrame()) return;
+    var d = document, s = d.createElement('script');
+    s.src = '//luyao-en.disqus.com/embed.js'; s.async = true;
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</section>
+
+
+
+
+
+</main>
+
+      <footer class="footer">
+        <ul class="footer-links">
+          
+          <li><a href="mailto:lykang365@gmail.com"><i class="fa fa-envelope" aria-hidden="true" title="Mail to Luyao"></i><span class="sr-only">Email</span></a></li>
+          <li><a href="/"><i class="ai ai-google-scholar" aria-hidden="true" title="Google Scholar"></i><span class="sr-only">Google Scholar</span></a></li>
+          
+          <li><a href="https://github.com/kangluyao"><i class="fa fa-github" aria-hidden="true" title="Github"></i><span class="sr-only">Github</span></a></li>
+          <li><a href="https://twitter.com/loyal_ECO"><i class="fa fa-twitter" aria-hidden="true" title="Twitter"></i><span class="sr-only">Twitter</span></a></li>
+          
+          <li><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><i class="fa fa-cc" aria-hidden="true" title="Attribution-NonCommercial-ShareAlike 4.0 International"></i><span class="sr-only">Attribution-NonCommercial-ShareAlike 4.0 International</span></a></li>
+          <li><a href="/"><i class="fa fa-copyright" aria-hidden="true" title="Copyright"></i> 2021 - 2025</a></li>
+        </ul>
+      </footer>
+    </div>
+    
+    <script async src="/js/center-img.js"></script>
+    
+    <script async src="/js/right-quote.js"></script>
+    
+    <script async src="/js/no-highlight.js"></script>
+    
+    <script async src="/js/fix-footnote.js"></script>
+    
+    
+
+    
+
+    
+
+    
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-28785465-3', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+  </body>
+</html>
+
